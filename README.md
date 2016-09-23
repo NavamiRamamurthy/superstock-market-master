@@ -1,8 +1,9 @@
 # superstock-market-master
 Simple stock application
 
-To run the program just run:
-
+Steps to run:
+mvn test 
+mvn package
 java -jar target/{jarname}.jar
 
 Requirements
